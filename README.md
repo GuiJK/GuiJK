@@ -21,3 +21,17 @@
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
+## 💖 Biografia
+
+Me chamo Guilherme, tenho 18 anos e entrei para a área de TI este ano (2022).
+
+Consegui essa oportunidade por meio do projeto Vem Ser Dev, quando as pessoas envolvidas entraram em contato com a minha mãe dizendo ser um curso sobre TI e Inglês totalmente gratuito, que existiam muitas vagas para essa profissão, que era uma oportunidade única e que não podíamos deixar passar!
+
+Desde então tenho me esforçado bastante nas aulas e espero me sair bem daqui em diante, realizando meus objetivos e aprendendo muito mais!
+</br>
+
+## 💖 Formação
+
+- Estudando desenvolvimento FullStack - Vem Ser Dev
+</br>
