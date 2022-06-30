@@ -22,7 +22,7 @@
  
 </div>
 
-## 💖 Biografia
+## Biografia
 
 Me chamo Guilherme, tenho 18 anos e entrei para a área de TI este ano (2022).
 
@@ -31,7 +31,7 @@ Consegui essa oportunidade por meio do projeto Vem Ser Dev, quando as pessoas en
 Desde então tenho me esforçado bastante nas aulas e espero me sair bem daqui em diante, realizando meus objetivos e aprendendo muito mais!
 </br>
 
-## 💖 Formação
+## Formação
 
 - Estudando desenvolvimento FullStack - Vem Ser Dev
 </br>
