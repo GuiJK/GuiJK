@@ -35,3 +35,7 @@ Desde então tenho me esforçado bastante nas aulas e espero me sair bem daqui e
 
 - Estudando desenvolvimento FullStack - Vem Ser Dev
 </br>
+
+## 💖 Certificados
+
+- ✅ "https://www.dio.me/certificate/FB17AC40/share"
