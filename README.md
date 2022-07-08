@@ -10,8 +10,9 @@
   <img align="center" alt="Gui-CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   
+   ![snake animation](https://github.com/GuiJK/GuiJK/blob/output/github-contribution-grid-snake.svg)
+  
   ##
- ![snake animation](https://github.com/GuiJK/GuiJK/blob/output/github-contribution-grid-snake.svg)
  
 <div> 
  
