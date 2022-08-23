@@ -43,3 +43,4 @@ Desde então tenho me esforçado bastante nas aulas e espero me sair bem daqui e
 ## 💖 Certificados
 
 - ✅ "https://www.dio.me/certificate/FB17AC40/share"
+- ✅ "https://www.dio.me/certificate/210D6FD9/share"
