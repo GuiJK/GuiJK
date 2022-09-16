@@ -38,6 +38,7 @@ Desde então tenho me esforçado bastante nas aulas e espero me sair bem daqui e
 ## Formação
 
 - Estudando desenvolvimento FullStack - Vem Ser Dev
+- Cursando Análise e Desenvolvimento de Sistemas - UNIDERP
 </br>
 
 ## 💖 Certificados
