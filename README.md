@@ -52,9 +52,3 @@ Desde então tenho me esforçado bastante nas aulas e espero me sair bem daqui e
 
 - ✅ "https://www.dio.me/certificate/FB17AC40/share"
 - ✅ "https://www.dio.me/certificate/210D6FD9/share"
-
-<a href="https://platane.github.io/snk">
-  <img height="300px" src="https://user-images.githubusercontent.com/1659820/121798244-7c86d700-cc25-11eb-8c1c-b8e65556ac0d.gif" ></img>
-</a>
-
-[platane.github.io/snk](https://platane.github.io/snk)
